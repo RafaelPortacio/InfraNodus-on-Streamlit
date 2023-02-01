@@ -19,8 +19,6 @@ the application works better with PyVis 0.1.9 instead of the most recent version
 
 ## InfraNodus paper itself results:
 <br />
-<br />
-
 
 ### Classification:
 ![image](https://user-images.githubusercontent.com/28269155/216180108-2af619c3-c909-4284-8f02-7b40bcd69c00.png)
